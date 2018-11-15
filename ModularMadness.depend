@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542284305 source:/Users/dereksilva/Dev/ModularMadness/main.cpp
+	<iostream>
+	<string>
+
